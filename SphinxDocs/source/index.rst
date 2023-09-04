@@ -6,6 +6,8 @@
 Welcome to SWIG-4.0 Documentation
 =================================
 
+THIS IS NOT THE UPSTREAM SWIG DOCUMENTATION. THIS IS ONLY A SPHINX PORTING TEST. PLEASE GO TO
+https://www.swig.org/
 
 .. toctree::
    :caption: SWIG Core Documentation
