@@ -37,6 +37,7 @@ void Wrapper_virtual_elimination_mode_set(int flag) {
 /* Helper function to assist with abstract class checking.  
    This is a major hack. Sorry.  */
 
+
 extern "C" {
   static String *search_decl = 0;	/* Declarator being searched */
   static Node *check_implemented(Node *n) {
